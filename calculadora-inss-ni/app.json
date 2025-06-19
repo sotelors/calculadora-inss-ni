@@ -4,7 +4,7 @@
     "slug": "calculadora-inss-ni",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/budget.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {

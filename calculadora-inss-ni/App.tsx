@@ -8,6 +8,7 @@ export default function App() {
   const [ir, setIr] = useState<number>(0);
   const [salarioNeto, setSalarioNeto] = useState<number>(0);
   const [mostrarResultados, setMostrarResultados] = useState<boolean>(false);
+  
 
   const calcularDescuentos = () => {
     const salarioNum = parseFloat(salario) || 0;
